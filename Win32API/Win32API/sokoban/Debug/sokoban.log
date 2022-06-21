@@ -1,0 +1,4 @@
+﻿  Game.cpp
+D:\c++\Win32API\Win32API\sokoban\Game.cpp(234,54): warning C4805: '==': 연산에 'char' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+D:\c++\Win32API\Win32API\sokoban\Game.cpp(390,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  sokoban.vcxproj -> D:\c++\Win32API\Win32API\Debug\sokoban.exe
